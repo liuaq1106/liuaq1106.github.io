@@ -1,13 +1,3 @@
----
-permalink: /
-title: "This is Anqi Liu's home on the web!"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 About Me
 ======
 I'm currently doing research on Optical Camera Communication(OCC) systems. I'm especially interested in the system modeling, performance analysis and efficient high-performance demodulating algorithms design for OCC.
