@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "This is Anqi Liu's home on the web!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is Anqi Liu's home on the web!
-
-About me
+About Me
 ======
-I'm current doing research on Optical Camera Communication(OCC) systems. I'm especially interested in the system modeling, performance analysis and efficient high-performance demodulating algorithms design for OCC.
+I'm currently doing research on Optical Camera Communication(OCC) systems. I'm especially interested in the system modeling, performance analysis and efficient high-performance demodulating algorithms design for OCC.
 
 
 
